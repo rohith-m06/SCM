@@ -4,6 +4,7 @@ int main()
 	int a=10, b=20, c;
 	c= a+b;
 	print("the sum is %d", c);
+	printf("the sub is %d", a-b);
 	return 0;
 
 }
