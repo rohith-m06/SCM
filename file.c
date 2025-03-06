@@ -8,6 +8,7 @@ int main()
 	printf("the multi is %d", a*b);
 	printf("the division is %d", a/b);
 	printf("i dont know");
+	printf("a == b is ", a==b);
 	return 0;
 
 }
