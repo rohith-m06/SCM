@@ -8,6 +8,7 @@ int main()
 	printf("the multi is %d", a*b);
 	printf("the division is %d", a/b);
 	printf("thank you");
+	printf("a++ is used in loops");
 	return 0;
 
 }
